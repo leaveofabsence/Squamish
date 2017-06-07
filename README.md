@@ -1,4 +1,4 @@
 Welcome git
 Modifying readme
 Made changes as requested
-Let's conflict
+Jim's changes and Leave's changes
